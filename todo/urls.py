@@ -33,7 +33,11 @@ urlpatterns = [
     #login
     path('login/', views.loginuser, name='loginuser'),
 
-    path('', views.home, name='home')
+    path('', views.home, name='home'),
 
+    #creating todos from login
+    path('create/', views.createtodo, name='createtodo'),
+
+     path('todo/<int:todo_pk>', views.viewtodo, name='viewtodo')
 
 ]
