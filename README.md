@@ -11,6 +11,10 @@ This is a simple Django web app that let's a user create a todo item list and cl
 4. Move todo item to completed list
 5. Delete the todo item
 
+![item list](doc_images/Currentitems.png?raw=true "Title")
+![editing todo list](doc_images/Editingtodoitem.png?raw=true "Title")
+
+
 ## Demo
 
 
