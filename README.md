@@ -3,6 +3,10 @@
 
 This is a simple Django web app that let's a user create a todo item list and click the complete button to move it to completed item list.
 
+## Demo
+Hosted on AWS Lightsail
+http://18.133.233.8:8000/
+
 ## Features
 
 1. User signup
@@ -13,9 +17,6 @@ This is a simple Django web app that let's a user create a todo item list and cl
 
 ![item list](doc_images/Currentitems.png?raw=true "Title")
 ![editing todo list](doc_images/Editingtodoitem.png?raw=true "Title")
-
-
-## Demo
 
 
 ## Getting Started
