@@ -4,7 +4,7 @@
 This is a simple Django web app that let's a user create a todo item list and click the complete button to move it to completed item list.
 
 ## Demo
-Hosted on AWS Lightsail
+Live on AWS Lightsail
 http://18.133.233.8:8000/
 
 ## Features
